@@ -1,0 +1,142 @@
+{
+  "Testament": "Old",
+  "Book": "Genesis",
+  "Chapter": 1,
+  "sections": [
+    {
+      "VerseRangeLabel": "1-2",
+      "VerseLabel": "The Beginning",
+      "verses": {
+        "1": "Nung umpisa pa lang, ginawa ni God ang heaven at earth.",
+        "2": "Yung earth noon, wala pang shape at empty. Madilim sa ibabaw ng deep water, at yung Spirit ni God nagmo-move sa ibabaw ng water."
+      },
+      "WordStudy": [
+        "WSK:umpisa | WSID: H7225",
+        "WSK:ginawa | WSID: H1254",
+        "WSK:God | WSID: H430",
+        "WSK:heaven | WSID: H8064",
+        "WSK:earth | WSID: H776",
+        "WSK:Spirit | WSID: H7307"
+      ],
+      "SV": "John 1:1-3; Hebrews 11:3"
+    },
+    {
+      "VerseRangeLabel": "3-5",
+      "VerseLabel": "Day One – Light",
+      "verses": {
+        "3": "Sabi ni God, “Magkaroon ng light!” At ayun, nagkaroon ng light.",
+        "4": "Nakita ni God na maganda yung light. Tapos, inihiwalay Niya yung light sa dark.",
+        "5": "Tinawag Niya yung light na “Day,” at yung dark naman “Night.” Nagkaroon ng gabi at umaga—yun yung first day."
+      },
+      "WordStudy": [
+        "WSK:light | WSID: H216",
+        "WSK:maganda | WSID: H2896",
+        "WSK:inihiwalay | WSID: H914",
+        "WSK:Day | WSID: H3117",
+        "WSK:Night | WSID: H3915"
+      ],
+      "SV": "2 Corinthians 4:6; John 8:12"
+    },
+    {
+      "VerseRangeLabel": "6-8",
+      "VerseLabel": "Day Two – Sky",
+      "verses": {
+        "6": "Sabi ni God, “Magkaroon ng space sa gitna ng water para mahiwalay yung water sa taas at yung water sa baba.”",
+        "7": "Ginawa ni God yung space, at inihiwalay Niya yung water sa ilalim sa water sa taas. At nangyari nga.",
+        "8": "Tinawag ni God yung space na “Sky.” Nagkaroon ng gabi at umaga—yun yung second day."
+      },
+      "WordStudy": [
+        "WSK:space | WSID: H7549",
+        "WSK:water | WSID: H4325",
+        "WSK:Sky | WSID: H8064"
+      ],
+      "SV": "Psalm 19:1; Psalm 104:2-3"
+    },
+    {
+      "VerseRangeLabel": "9-13",
+      "VerseLabel": "Day Three – Land and Plants",
+      "verses": {
+        "9": "Sabi ni God, “Mag-gather yung water sa ilalim ng sky sa isang place para lumitaw yung dry land.” At nangyari nga.",
+        "10": "Tinawag ni God yung dry land na “Earth,” at yung naka-gather na water “Sea.” Nakita Niya na maganda.",
+        "11": "Sabi ni God, “Magkaroon ang earth ng grass, plants na may seeds, at trees na may fruits according to their kind, na may seeds sa loob.” At nangyari nga.",
+        "12": "Naglabas yung earth ng grass, plants na may seeds according to their kind, at trees na may fruits na may seeds according to their kind. Nakita ni God na maganda.",
+        "13": "Nagkaroon ng gabi at umaga—yun yung third day."
+      },
+      "WordStudy": [
+        "WSK:dry land | WSID: H3004",
+        "WSK:Earth | WSID: H776",
+        "WSK:Sea | WSID: H3220",
+        "WSK:grass | WSID: H1877",
+        "WSK:plants | WSID: H6212",
+        "WSK:seeds | WSID: H2233",
+        "WSK:trees | WSID: H6086"
+      ],
+      "SV": "Psalm 104:14; Matthew 6:28-30"
+    },
+    {
+      "VerseRangeLabel": "14-19",
+      "VerseLabel": "Day Four – Lights in the Sky",
+      "verses": {
+        "14": "Sabi ni God, “Magkaroon ng lights sa sky para ihiwalay yung day at night. Magiging signs din sila para sa seasons, days, at years.",
+        "15": "Magiging lights sila sa sky para magbigay ng light sa earth.” At nangyari nga.",
+        "16": "Ginawa ni God yung two big lights—yung mas malaki para mag-rule sa day, at yung mas maliit para mag-rule sa night. Ginawa rin Niya yung stars.",
+        "17": "Inilagay Niya sila sa sky para magbigay ng light sa earth,",
+        "18": "para mag-rule sa day at night, at para ihiwalay yung light sa dark. Nakita ni God na maganda.",
+        "19": "Nagkaroon ng gabi at umaga—yun yung fourth day."
+      },
+      "WordStudy": [
+        "WSK:lights | WSID: H3974",
+        "WSK:signs | WSID: H226",
+        "WSK:seasons | WSID: H4150",
+        "WSK:big lights | WSID: H1419 + H3974",
+        "WSK:stars | WSID: H3556"
+      ],
+      "SV": "Psalm 136:7-9; Jeremiah 31:35"
+    },
+    {
+      "VerseRangeLabel": "20-23",
+      "VerseLabel": "Day Five – Sea Creatures and Birds",
+      "verses": {
+        "20": "Sabi ni God, “Mapuno yung water ng maraming living creatures, at maglipad yung birds sa ibabaw ng earth sa sky.”",
+        "21": "Ginawa ni God yung big sea creatures, lahat ng living things na nagmo-move sa water according to their kind, at lahat ng birds na may wings according to their kind. Nakita Niya na maganda.",
+        "22": "Binasbasan sila ni God at sinabi, “Mag-multiply kayo at punuin yung water sa sea, at mag-multiply din yung birds sa earth.”",
+        "23": "Nagkaroon ng gabi at umaga—yun yung fifth day."
+      },
+      "WordStudy": [
+        "WSK:living creatures | WSID: H5315 + H2416",
+        "WSK:birds | WSID: H5775",
+        "WSK:sea creatures | WSID: H8577",
+        "WSK:binasbasan | WSID: H1288",
+        "WSK:mag-multiply | WSID: H6509"
+      ],
+      "SV": "Psalm 104:25-26; Psalm 148:7"
+    },
+    {
+      "VerseRangeLabel": "24-31",
+      "VerseLabel": "Day Six – Land Animals and Humans",
+      "verses": {
+        "24": "Sabi ni God, “Maglabas yung earth ng living creatures according to their kind—livestock, crawling things, at wild animals, according to their kind.” At nangyari nga.",
+        "25": "Ginawa ni God yung wild animals according to their kind, yung livestock according to their kind, at lahat ng crawling things sa ground according to their kind. Nakita Niya na maganda.",
+        "26": "Sabi ni God, “Gawin natin yung tao according to Our image, according to Our likeness, para sila yung mag-rule sa fish sa sea, sa birds sa sky, sa livestock, sa buong earth, at sa lahat ng crawling things sa ground.”",
+        "27": "Kaya ginawa ni God yung tao according to His own image. According to God’s image Niya sila ginawa—male at female Niya sila ginawa.",
+        "28": "Binasbasan sila ni God at sinabi, “Mag-multiply kayo, punuin ninyo yung earth at i-subdue ninyo ito. Mag-rule kayo sa fish sa sea, sa birds sa sky, at sa lahat ng living things na nagmo-move sa earth.”",
+        "29": "Sabi pa ni God, “Tingnan ninyo, binigay Ko sa inyo lahat ng plants na may seeds sa buong earth, at lahat ng trees na may fruits na may seeds. Yan yung magiging food ninyo.",
+        "30": "At sa lahat ng animals sa earth, sa lahat ng birds sa sky, at sa lahat ng living things na nagca-crawl sa ground—binigay Ko yung green plants as food.” At nangyari nga.",
+        "31": "Tiningnan ni God lahat ng ginawa Niya, at sobrang ganda. Nagkaroon ng gabi at umaga—yun yung sixth day."
+      },
+      "WordStudy": [
+        "WSK:living creatures | WSID: H2416",
+        "WSK:crawling things | WSID: H7431",
+        "WSK:tao | WSID: H120",
+        "WSK:image | WSID: H6754",
+        "WSK:likeness | WSID: H1823",
+        "WSK:mag-rule | WSID: H7287",
+        "WSK:male | WSID: H2145",
+        "WSK:female | WSID: H5347",
+        "WSK:binasbasan | WSID: H1288",
+        "WSK:i-subdue | WSID: H3533"
+      ],
+      "SV": "Psalm 8:4-8; Matthew 19:4; Colossians 1:15"
+    }
+  ]
+}
